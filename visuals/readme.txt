@@ -1,0 +1,1 @@
+This folder can contain generated charts (SWOT, revenue graphs, delivery time comparisons).
