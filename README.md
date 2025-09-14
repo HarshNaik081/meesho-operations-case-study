@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Meesho Operations Case Study (Final Enhanced Version)
 
 ## Project Highlights
@@ -30,3 +31,28 @@
 - Analysts seeking templates for case study + dashboard presentation.
 
 ---
+=======
+# Meesho Operations Case Study
+
+## Executive Summary
+This case study analyzes operational challenges at Meesho, focusing on logistics and seller onboarding. 
+The goal is to identify inefficiencies, benchmark against competitors, and propose data-driven recommendations.
+
+### Key Insights
+- High delivery delays and returns increase operational costs and reduce customer satisfaction.
+- Seller onboarding funnel has high drop-off rates, limiting marketplace growth.
+- Competitors leverage faster logistics networks and stronger seller ecosystems.
+
+### Recommendations
+- Implement **regional micro-fulfillment centers** and cluster-based delivery routing to cut last-mile delays.
+- Streamline seller onboarding with digital KYC and guided onboarding flows to reduce drop-off by 20%.
+- Optimize return management and COD handling to reduce reverse logistics costs.
+
+### Expected Impact
+- Reduce delivery time by ~15% through clustered logistics.
+- Improve seller onboarding conversion rate by 20%.
+- Enhance customer satisfaction and repeat purchase likelihood.
+
+---
+This repo contains the detailed case study, consulting-style presentation slides, and supporting visuals.
+>>>>>>> 9e2c703a83992e678fabfe435086aaf7d39d022c

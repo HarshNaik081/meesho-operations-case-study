@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Visuals Overview
 
 This folder contains all visuals used in the Meesho Operations Case Study.
@@ -10,3 +11,6 @@ This folder contains all visuals used in the Meesho Operations Case Study.
 - **dashboard_overview.png** → Combined dashboard with key KPIs for a one-glance summary.
 
 These visuals are generated from `data/synthetic_logistics.csv` and designed in a Tableau-style format.
+=======
+This folder can contain generated charts (SWOT, revenue graphs, delivery time comparisons).
+>>>>>>> 9e2c703a83992e678fabfe435086aaf7d39d022c
