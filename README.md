@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Meesho Operations Case Study (Final Enhanced Version)
+# Meesho Operations Case Study 
 
 ## Project Highlights
 - Consulting-style case study focusing on logistics & seller onboarding inefficiencies.
@@ -24,11 +23,6 @@
 3. Open `case_study.md` → full report.
 4. Explore `visuals/dashboard_overview.png` → quick view of KPIs dashboard.
 5. Load `data/synthetic_logistics.csv` into Tableau or Excel to recreate charts interactively.
-
-## Who Should View this Repo?
-- Recruiters evaluating business/analyst project skills.
-- Interviewers looking for consulting-style case studies with quantified impact.
-- Analysts seeking templates for case study + dashboard presentation.
 
 ---
 =======
@@ -55,4 +49,3 @@ The goal is to identify inefficiencies, benchmark against competitors, and propo
 
 ---
 This repo contains the detailed case study, consulting-style presentation slides, and supporting visuals.
->>>>>>> 9e2c703a83992e678fabfe435086aaf7d39d022c
