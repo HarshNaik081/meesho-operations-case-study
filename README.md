@@ -13,19 +13,7 @@
 - `data/synthetic_logistics.csv` → Simulated dataset for visualization.
 - `visuals/` → Dashboard-style PNGs and SWOT chart.
 
-## How to Run Locally
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/HarshNaik081/meesho-operations-case-study.git
-   cd meesho-operations-case-study
-   ```
-2. Open `Meesho-Operations-Case-Study.pptx` → presentation slides.
-3. Open `case_study.md` → full report.
-4. Explore `visuals/dashboard_overview.png` → quick view of KPIs dashboard.
-5. Load `data/synthetic_logistics.csv` into Tableau or Excel to recreate charts interactively.
 
----
-=======
 # Meesho Operations Case Study
 
 ## Executive Summary
